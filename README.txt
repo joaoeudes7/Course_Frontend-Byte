@@ -19,3 +19,11 @@ Conteudo
     tamanho
     1.2em
 
+bordas das imagens
+    Cor
+    #c3c3ae
+    tipo
+    solid
+    tamanho
+    10px
+
